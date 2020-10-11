@@ -1,6 +1,4 @@
 from airflow import DAG
-from airflow.contrib.operators.snowflake_operator import SnowflakeOperator
-from airflow.contrib.hooks.snowflake_hook import SnowflakeHook
 from airflow.operators.python_operator import PythonOperator
 import logging
 import airflow.utils
