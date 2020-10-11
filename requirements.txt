@@ -1,0 +1,7 @@
+apache-airflow[password]
+apache-airflow[airflow_login]
+boto3
+snowflake-connector-python
+snowflake-sqlalchemy
+pyarrow
+keyring
