@@ -1,8 +1,7 @@
 apache-airflow[password]
 apache-airflow[airflow_login]
-boto3
-snowflake-connector-python
-snowflake-sqlalchemy
+boto3>=1.0
+snowflake-connector-python>=2.2.1
+snowflake-sqlalchemy>=1.2.1
 pyarrow
 keyring
-snowflake
