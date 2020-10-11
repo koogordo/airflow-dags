@@ -5,3 +5,4 @@ snowflake-connector-python
 snowflake-sqlalchemy
 pyarrow
 keyring
+snowflake
