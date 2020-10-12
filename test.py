@@ -1,5 +1,6 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
+from airflow.contrib.hooks.snowflake_hook import SnowflakeHook
 import logging
 import airflow.utils
 from datetime import timedelta

@@ -6,3 +6,4 @@ snowflake-connector-python>=2.2.1
 snowflake-sqlalchemy>=1.2.1
 pyarrow
 keyring
+ldap3
